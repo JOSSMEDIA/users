@@ -7,9 +7,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0, AZTECA UNO
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0,  CANAL 4 MONCLOVA
-#EXTVLCOPT:network-caching=1000
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:30, MULTIMEDIOS SABINAS 
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:0, MULTIMEDIOS CDMX
