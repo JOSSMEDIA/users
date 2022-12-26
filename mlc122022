@@ -1,0 +1,1124 @@
+#EXTM3U
+#EXTINF:60, ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, A MAS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0, AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0,  CANAL 4 MONCLOVA
+#EXTVLCOPT:network-caching=1000
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:30, MULTIMEDIOS SABINAS 
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:0, MULTIMEDIOS CDMX
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:0, CANAL DE LAS ESTRELLAS 
+http://190.131.247.82:8000/play/a0ih
+#EXTINF:0, TELEMUNDO
+http://190.187.247.206:8000/play/a01f/index.m3u8
+#EXTINF:0, UNIVISION
+http://190.115.15.177:58003/play/a00q/index.m3u8
+
+
+#EXTINF:0, CANAL 28 NUEVO LEON 
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:0, CANAL 44 CHIHUAHUA 
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:0, TVP 
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, TVP CULIACAN
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0, TVP LOS MOCHIS
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:0, TVP OBREGON
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:0, RTQ QUERETARO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0, TV MAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:0, MILENIO TELEVISON NORESTE 
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0, NOTICIAS CANAL 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:0, CANAL 66 NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w298883080_b878000_sleng.m3u8?WebM3UCL
+#EXTINF:0, AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0, DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0, SPECTRUM CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+#EXTINF:0, HOLA TV
+http://bg-tv.xyz/w/getp.php?id=905098&f=.m3u8
+#EXTINF:0,Pasiones HD
+http://190.115.15.177:58003/play/a00p/index.m3u8
+#EXTINF:0, TVC
+http://bg-tv.xyz/w/getp.php?id=930319&f=.m3u8
+#EXTINF:0, RTS
+http://bg-tv.xyz/w/getp.php?id=930354&f=.m3u8
+#EXTINF:0,========== KIDS ==================
+==========%20KIDS%20==================
+#EXTINF:0, CAILLOU
+https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, SUPERTOONS TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, CANAL PLANETA KIDS
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1289472866.m3u8?WebM3UCL
+#EXTINF:-1, CARTOON NETWORÑ
+http://168.194.171.33:8000/play/a00c/index.m3u8
+#EXTINF:-1, PLANETA JR
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, PLANETA TV
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://190.187.247.206:8000/play/a011/index.m3u8
+#EXTINF:-1, DISNEY
+http://190.115.15.177:58003/play/a01r/index.m3u8
+#EXTINF:-1, DISNEY JR
+http://190.187.247.206:8000/play/a00v/index.m3u8
+#EXTINF:-1, NICK JR
+http://190.187.247.206:8000/play/a01z/index.m3u8
+#EXTINF:-1, NICKELODEON
+http://190.187.247.206:8000/play/a007/index.m3u8
+#EXTINF:-1, CARTOONITO
+http://bg-tv.xyz/w/getp.php?id=1029570&f=.m3u8
+#EXTINF:0, TOONCAST
+http://bg-tv.xyz/w/getp.php?id=930377&f=.m3u8
+#EXTINF:0, ZOOMOO
+http://bg-tv.xyz/w/getp.php?id=930334&f=.m3u8
+#EXTINF:0, DISCOVERY KIDS
+http://bg-tv.xyz/w/getp.php?id=930358&f=.m3u8
+#EXTINF:0, CARTOON NETWORK
+http://bg-tv.xyz/w/getp.php?id=930322&f=.m3u8
+#EXTINF:0, DISNEY 
+http://bg-tv.xyz/w/getp.php?id=930359&f=.m3u8
+#EXTINF:0, DISNEY JR
+http://bg-tv.xyz/w/getp.php?id=930271&f=.m3u8
+#EXTINF:0, NICKELODEON
+http://bg-tv.xyz/w/getp.php?id=930324&f=.m3u8
+#EXTINF:0, NICK JR
+http://bg-tv.xyz/w/getp.php?id=930374&f=.m3u8
+#EXTINF:0, TEENICK
+http://bg-tv.xyz/w/getp.php?id=930208&f=.m3u8
+#EXTINF:0, WARNER 
+http://bg-tv.xyz/w/getp.php?id=930328&f=.m3u8
+#EXTINF:0,========== SPORTS =================
+==========%20SPORTS%20=================
+#EXTINF:0, CLARO SPORTS
+http://bg-tv.xyz/w/getp.php?id=771505&f=.m3u8
+#EXTINF:0, FOX SPORTS PREMIUM
+http://bg-tv.xyz/w/getp.php?id=1028928&f=.m3u8
+#EXTINF:0, FOX SPORTS
+http://bg-tv.xyz/w/getp.php?id=762787&f=.m3u8
+#EXTINF:0, FOX SPORTS 2
+http://bg-tv.xyz/w/getp.php?id=762801&f=.m3u8
+#EXTINF:0, FOX SPORTS 3
+http://bg-tv.xyz/w/getp.php?id=762802&f=.m3u8
+#EXTINF:0, ESPN 
+http://bg-tv.xyz/w/getp.php?id=930361&f=.m3u8
+#EXTINF:0, ESPN 2
+http://bg-tv.xyz/w/getp.php?id=930380&f=.m3u8
+#EXTINF:0, ESPN 3
+http://bg-tv.xyz/w/getp.php?id=930326&f=.m3u8
+#EXTINF:0, ESPN 4
+http://bg-tv.xyz/w/getp.php?id=930325&f=.m3u8
+#EXTINF:0, ESPN EXTRA
+http://bg-tv.xyz/w/getp.php?id=930379&f=.m3u8
+#EXTINF:0,BEIN SPORT EXTRA
+http://131.196.194.2:8000/play/a0h9/index.m3u8
+#EXTINF:0, EL CANAL DEL FUTBOL
+http://bg-tv.xyz/w/getp.php?id=930327&f=.m3u8
+#EXTINF:0,========== CABLEVISION ==========
+==========%20CABLEVISION%20==========
+#EXTINF:0, ESPORTS MAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:0, MEXICO TRAVEL CHANNEL
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/mexicotravel/
+#EXTINF:0, MY TIME SERIES MEXICO
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0, MY TIME SERIES ESPAÑA
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0, CANAL CLARO
+http://131.196.194.2:8000/play/a0bs/index.m3u8
+#EXTINF:0, De PELICULA
+http://190.131.247.82:8000/play/a0ga
+#EXTINF:0, TELESISTEMA 
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0, MX NUESTRO CINE
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:0, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TURF MOBIL
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:0, SAN ISIDRO
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:0, PYMES TV
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:0, OPINION SUR PIXAR
+#EXTVLCOPT:network-caching=1000
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:0, MONI TV 
+#EXTVLCOPT:network-caching=1000
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1039658345.m3u8?WebM3UCL
+#EXTINF:29, FRECUENCIA 21
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:0, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0, MICROvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0, READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:29, ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:0, MEGAVISION
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:0, FRECUENCIA MUSICAL
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+#EXTINF:0, TV DAJA
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:0, NITIDA
+#EXTVLCOPT:network-caching=1000
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:0, CANAL 74 TV
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, RAKUTEN ACCION
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, CINEMAX
+http://190.115.15.177:58003/play/a03o/index.m3u8
+#EXTINF:0, CINE LATINO
+http://190.115.15.177:58003/play/a016/index.m3u8
+#EXTINF:0, A3SERIES
+http://bg-tv.xyz/w/getp.php?id=930383&f=.m3u8
+#EXTINF:0, TELEAMAZONAS
+http://bg-tv.xyz/w/getp.php?id=930308&f=.m3u8
+#EXTINF:0, INVESTIGATION DISCOVERY
+http://bg-tv.xyz/w/getp.php?id=930381&f=.m3u8
+#EXTINF:0, AMC
+http://bg-tv.xyz/w/getp.php?id=930369&f=.m3u8
+#EXTINF:0, UNIVERSAL
+http://190.115.15.177:58003/play/a015/index.m3u8
+#EXTINF:0, SONY
+http://bg-tv.xyz/w/getp.php?id=930336&f=.m3u8
+#EXTINF:0, SONY CHANNEL
+http://190.115.15.177:58003/play/a00j/index.m3u8
+#EXTINF:0, SONY MOVIES
+http://190.115.15.177:58003/play/a036/index.m3u8
+#EXTINF:0, FX  
+http://190.115.15.177:58003/play/a01q/index.m3u8
+#EXTINF:0, I SAT MOVIES
+http://190.115.15.177:58003/play/a05e/index.m3u8
+#EXTINF:0, MULTIPREMIER
+http://bg-tv.xyz/w/getp.php?id=930391&f=.m3u8
+#EXTINF:0, CINEMAX
+http://bg-tv.xyz/w/getp.php?id=930367&f=.m3u8
+#EXTINF:0, CINECANAL
+http://bg-tv.xyz/w/getp.php?id=930365&f=.m3u8
+#EXTINF:0, A&E 
+http://190.131.247.82:8000/play/a0jm
+#EXTINF:0, A&E MUNDO 
+http://168.194.171.33:8000/play/a01e/index.m3u8
+#EXTINF:0, FOX
+http://bg-tv.xyz/w/getp.php?id=930209&f=.m3u8
+#EXTINF:0, TNT 
+http://bg-tv.xyz/w/getp.php?id=930330&f=.m3u8
+#EXTINF:0, TNT SERIES
+http://bg-tv.xyz/w/getp.php?id=930329&f=.m3u8
+#EXTINF:0, HBO 
+http://bg-tv.xyz/w/getp.php?id=780486&f=.m3u8
+#EXTINF:0, HBO 2
+http://bg-tv.xyz/w/getp.php?id=793557&f=.m3u8
+#EXTINF:0, HBO PLUS
+http://bg-tv.xyz/w/getp.php?id=792182&f=.m3u8
+#EXTINF:0, HBO FAMILY 
+http://bg-tv.xyz/w/getp.php?id=792125&f=.m3u8
+#EXTINF:0, HBO SIGNATURE
+http://bg-tv.xyz/w/getp.php?id=793578&f=.m3u8
+#EXTINF:0, HBO MUNDI
+http://bg-tv.xyz/w/getp.php?id=929897&f=.m3u8
+#EXTINF:0, HBO POP
+http://bg-tv.xyz/w/getp.php?id=929850&f=.m3u8
+#EXTINF:0, HBO XTREME
+http://bg-tv.xyz/w/getp.php?id=929918&f=.m3u8
+#EXTINF:0, UNIVERSAL CINEMA ESTE HD
+http://190.61.102.67:8000/play/a05f
+#EXTINF:0, UNIVERSAL COMEDY HD
+http://190.61.102.67:8000/play/a06b
+#EXTINF:0, UNIVERSAL CRIME HD
+http://190.61.102.67:8000/play/a06a
+#EXTINF:0, UNIVERSAL PREMIERE HD
+http://190.61.102.67:8000/play/a067
+#EXTINF:0, UNIVERSAL PREMIERE O HD
+http://190.61.102.67:8000/play/a068
+#EXTINF:0, UNIVERSAL REALITY HD
+http://190.61.102.67:8000/play/a069
+#EXTINF:36, SPACE
+http://bg-tv.xyz/w/getp.php?id=930210&f=.m3u8
+#EXTINF:0, SPACE HD
+http://190.131.247.82:8000/play/a05n
+#EXTINF:0, SYFY
+http://bg-tv.xyz/w/getp.php?id=930520&f=.m3u8
+#EXTINF:0, UNIVERSAL
+http://bg-tv.xyz/w/getp.php?id=930384&f=.m3u8
+#EXTINF:0, STUDIO UNIVERSAL
+http://bg-tv.xyz/w/getp.php?id=930382&f=.m3u8
+#EXTINF:0, PARAMOUNT CHANNEL
+http://bg-tv.xyz/w/getp.php?id=930368&f=.m3u8
+#EXTINF:0, STAR CHANNEL
+http://bg-tv.xyz/w/getp.php?id=930363&f=.m3u8
+#EXTINF:0,========== CANALES NETFLIX ==========
+==========%20CANALES%20NETFLIX%20==========
+#EXTINF:0, NETFLIX ACCION
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29311.ts
+#EXTINF:0, NETFLIX ACCION 2
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29312.ts
+#EXTINF:0, NETFLIX BOX OFFICE
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29313.ts
+#EXTINF:0, NETFLIX COMEDY 2 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29316.ts
+#EXTINF:0, NETFLIX DISCOVERY DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29317.ts
+#EXTINF:0, NETFLIX DRAMA 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29318.ts
+#EXTINF:0, NETFLIX HORROR 2 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29320.ts
+#EXTINF:0, NETFLIX KIDS 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29322.ts
+#EXTINF:0, NETFLIX MOVIES 2  
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29324.ts
+#EXTINF:0, NETFLIX THRILLER 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29325.ts
+#EXTINF:0, NETFLIX THRILLER 2 
+#EXTVLCOPT:network-caching=1000
+http://flysilo.top:8080/live/511669554214097057/7081669554214097/29326.ts
+#EXTINF:0,========== PELICULAS ==============
+==========%20PELICULAS%20==============
+#EXTINF:0, CUARTEL SECRETO
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Secret.Headquarters.2022.lati.mp4
+#EXTINF:0,  TOP GUN 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
+#EXTINF:0,  DEPREDADOR - LA PRESA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Prey.2022.mkv
+#EXTINF:0,  PANTERA NEGRA
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Pantera-Negra.mp4
+#EXTINF:0,  TREN BALA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
+#EXTINF:0,  LA AMBULANCIA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Ambulance.2022.1080P.Dual-Latino.mitorrent.org.mkv
+#EXTINF:0,  PROYECTO ADAMS
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Adam.Project.2022.lati.mp4
+#EXTINF:0,  MOONFALL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Moonfall.2022.lati.mp4
+#EXTINF:0,  SONIC 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Sonic.the.Hedgehog.2.2022.lati.mp4
+#EXTINF:0, MINIONS NACE UN VILLANO
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Minions.NaceUnVillano.SrRegio.Net.mp4
+#EXTINF:0, LIGHTYEAR
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/lightyear.2022.SRREGIO.mp4
+#EXTINF:0,  UN RESCATE DE HUEVITOS
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
+#EXTINF:0, CANTA 2
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:0,ANGRY BIRDS 
+#EXTVLCOPT:network-caching=1000
+https://goo.gl/3KGMLf
+#EXTINF:0,  JURASIC WORLD - DOMINION
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
+#EXTINF:0,  MUNDO JURASICO
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Accion/Jurassic-World.mp4
+#EXTINF:0, LAS BRUJAS 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:0, LA CIUDAD PERDIDA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Lost.City.2022.lati.mp4
+#EXTINF:0, NAVIDAD DE GOLPE
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Falling.for.Christmas.2022.lati.mp4
+#EXTINF:0, MENTADA DE PADRE
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Mentada.de.padre.2019.lati.mp4
+#EXTINF:0, Y COMO ES EL
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
+#EXTINF:0, QUE DESPADRE
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Qu%C3%A9.despadre.2022.lati.mp4
+#EXTINF:0, POR FIN SOLO EN CASA
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:0,  OBLIVION
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Oblivion.El.Tiempo.Del.Olvido.Latino.1080p.mp4
+#EXTINF:0,  HALO NIGHTFALL
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Halo.Nightfall.Latino.1080p.mp4
+#EXTINF:0,  MAZZERUNNER - LA CURA MORTAL
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Accion/Maze%20Runner%20%20La%20Cura%20Mortal.mkv
+#EXTINF:0,  EL HOMBRE DE TORONTO
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/El.Hombre.de.Toronto.mkv
+#EXTINF:0,  BLADE DE LOS 47 RONIN
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Blade.of.the.47.Ronin.2022.lati.mp4
+#EXTINF:0,  LA ERA DE HIELO 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
+#EXTINF:0,LA MINA 
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/THEMINE
+#EXTINF:0,CASTILLO DE ARENA
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/MRAQCASTI
+#EXTINF:0,SAHARA
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/SAHARAMOVIE
+#EXTINF:0,COLOSSAL 
+#EXTVLCOPT:network-caching=1000
+http://bit.ly/2w5zZIw
+#EXTINF:7426,PROMETHEUS 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:0,CLOVERFIELD PARADOX 
+#EXTVLCOPT:network-caching=1000
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0,TERMINUS 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0,DEADPOOL
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0, PIRATAS  EL TESORO REAL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Pirates.The.Last.Royal.Treasure.2022.lati.mp4
+#EXTINF:0, EL PLANETA DE LOS SIMIOS
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/La%20Guerra%20Del%20Planeta%20De%20Los%20Simios%20%5BBluRay%20Rip%5D%5BAC3%202.0%20Espa%C3%B1ol%20Latino%5D%5B2017%5D.avi
+#EXTINF:0, CONSPIRACION EXPLOSIVA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
+#EXTINF:0,  VOLVER AL FUTURO
+#EXTVLCOPT:network-caching=1000
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:0,  BARBARIAN
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Barbarian.2022.lati.mp4
+#EXTINF:0, SCREAM 5
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:0, HALLOWEEN EL FINAL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Halloween.Ends.2022.lati.mp4
+#EXTINF:0, IT
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/it.eso.2017.tshq.mp4
+#EXTINF:0, ANABELLE  LA CREACION
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/Annabelle%20Creation%20%5BBluRay%20Screener%5D%5BEspa%C3%B1ol%20Castellano%5D%5B2017%5D.avi
+#EXTINF:0,======= SERIES NETFLIX ==========
+=======%20SERIES%20NETFLIX%20==========
+#EXTINF:0,El Chapo S01E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQZUXwM3dxNqiWLnXOykD5-#.mp4
+#EXTINF:0,El Chapo S01E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQFUJwW2OoSe_YXTBiCacB6#.mp4
+#EXTINF:0,El Chapo S01E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQuW_6kxoIekIsnojBZ_MGS#.mp4
+#EXTINF:0,El Chapo S01E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJT2MBxlRx26_XtPCVASfetM#.mp4
+#EXTINF:0,El Chapo S01E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQCMZ699G6G35ahCPyGImgr#.mp4
+#EXTINF:0,El Chapo S01E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJSlVyOIZTHUfoklqg5mY7UK#.mp4
+#EXTINF:0,El Chapo S01E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQYDFTecaE2RVQ4ANLkthuv#.mp4
+#EXTINF:0,El Chapo S01E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQX-0Tr25YRGHP8h10x0Pmy#.mp4
+#EXTINF:0,El Chapo S01E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJTvtkE1sro6pozg6qxCneoX#.mp4
+#EXTINF:0,El Chapo S02E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJSwHk0_cNTA-vqTX-RDirV5#.mp4
+#EXTINF:0,El Chapo S02E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJTXFfNt4T05oywruHIwkrwF#.mp4
+#EXTINF:0,El Chapo S02E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJTGWE3gIUfxUMAaCW4VJBGm#.mp4
+#EXTINF:0,El Chapo S02E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJTsvFAweFyVQyNQfhfu1s53#.mp4
+#EXTINF:0,El Chapo S02E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJShI6tKWKWqK4saQKY7oad6#.mp4
+#EXTINF:0,El Chapo S02E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJSxQMROnmnPE0G4gLOHqREo#.mp4
+#EXTINF:0,El Chapo S02E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJT9gYtqDlEEqzdf_T2D_UvN#.mp4
+#EXTINF:0,El Chapo S02E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRFmYj0aKVsoAHsARncsCV6#.mp4
+#EXTINF:0,El Chapo S02E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRipMGC1NH61MzySwoZBXtM#.mp4
+#EXTINF:0,El Chapo S02E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRrlc9GuRAWeCDRcGczU7-a#.mp4
+#EXTINF:0,El Chapo S02E11
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJSPo04zkbzdZtYdEmTIEGs2#.mp4
+#EXTINF:0,El Chapo S02E12
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJT9YicjZSlG3s1TBnTB8FD2#.mp4
+#EXTINF:0,El Chapo S03E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRHDMl9S_mFx44e_VIKkPns#.mp4
+#EXTINF:0,El Chapo S03E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJR2-k0dM_ClcCF56D4bHqL8#.mp4
+#EXTINF:0,El Chapo S03E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJS3za-WyNRcNChRYBLdguB6#.mp4
+#EXTINF:0,El Chapo S03E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRxUzKZPqf8IvXX76cO1pzl#.mp4
+#EXTINF:0,El Chapo S03E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJR5PljIRiCs0F9-GPEDWg1S#.mp4
+#EXTINF:0,El Chapo S03E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQX8tpiGjfrLPHSe4EgapIH#.mp4
+#EXTINF:0,El Chapo S03E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJSesFcsiE6X-Y3iKQ05KHK0#.mp4
+#EXTINF:0,El Chapo S03E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRQ1hhgu9lbXbk4R4hH02AZ#.mp4
+#EXTINF:0,El Chapo S03E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQ41sVX_s7ceq7ER7jn0tt3#.mp4
+#EXTINF:0,El Chapo S03E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRTpHc8BynyLm_MDYxinQlF#.mp4
+#EXTINF:0,El Chapo S03E11
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJTRH-wGeDV9KnU-cP0JpnLE#.mp4
+#EXTINF:0,El Chapo S03E12
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJQTn3YlTcgCQIY6N_Y-7z6F#.mp4
+#EXTINF:0,El Chapo S03E13
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQy2iAqVUIfGME-XcYbpnNJRdUjF0f2vgOq81yKwXvX7L#.mp4
+#EXTINF:0,Narcos S01E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2y1YkuToeulPezaLFrVNOZw#.mkv
+#EXTINF:0,Narcos S01E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xWhL43Gb-WyaUzyRyNOU2y#.mkv
+#EXTINF:0,Narcos S01E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2x2-e7uMWB7jy5YHK7n8ijt#.mkv
+#EXTINF:0,Narcos S01E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zHJyhaQtRie5gS0mFvv5zb#.mkv
+#EXTINF:0,Narcos S01E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2y8tbc7CFQxMRaPVAZMkL0P#.mkv
+#EXTINF:0,Narcos S01E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zcKusEPfYBC-OsK_LsFV_z#.mkv
+#EXTINF:0,Narcos S01E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xXzPvj1kXorOXUS0MxjW27#.mkv
+#EXTINF:0,Narcos S01E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zbHUYk5VcQc5ArUdMmD-Yu#.mkv
+#EXTINF:0,Narcos S01E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zIj38ytc9dEgw661F_GV1F#.mkv
+#EXTINF:0,Narcos S01E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2yXJyT8eugI_iOUj_8LRbnC#.mkv
+#EXTINF:0,Narcos S02E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2whNKEZ83eBxxX6dQO5F5G5#.mkv
+#EXTINF:0,Narcos S02E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2wNAfKzJVr_i-1NaybfZfTp#.mkv
+#EXTINF:0,Narcos S02E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2wX2RgIWHvb0iaYTUk2CT7X#.mkv
+#EXTINF:0,Narcos S02E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zuO63KL0wqlhBoghAQHfPr#.mkv
+#EXTINF:0,Narcos S02E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2ykAD1HukpPrdo5OkMIWK69#.mkv
+#EXTINF:0,Narcos S02E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2yCaEdv509neAcJ7lj8uWP_#.mkv
+#EXTINF:0,Narcos S02E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xVHHRYEbOFNU_l6mpOJg6G#.mkv
+#EXTINF:0,Narcos S02E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xX84DZ3Ba5agGQ9-sQub4r#.mkv
+#EXTINF:0,Narcos S02E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xm1ltEKXWpkwt1unzWxw9w#.mkv
+#EXTINF:0,Narcos S02E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2x3_Q0vuvJgr0I129qXBkJf#.mkv
+#EXTINF:0,Narcos S03E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2ybhxa3CmsiFVwl3wDKXdAG#.mkv
+#EXTINF:0,Narcos S03E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2yEWVCQvTCHHxxbKXx0w3_a#.mkv
+#EXTINF:0,Narcos S03E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xt5Nx_7h7uAN7dfxddYhNk#.mkv
+#EXTINF:0,Narcos S03E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xKK7fU-2vYlC9y9xC0Lp3u#.mkv
+#EXTINF:0,Narcos S03E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xHtrXemxrFrcF_i4dlv539#.mkv
+#EXTINF:0,Narcos S03E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2xEeIH3NFL6jK-UgPvhEKn3#.mkv
+#EXTINF:0,Narcos S03E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2zGybfF9K0IM4UEFWBsA32c#.mkv
+#EXTINF:0,Narcos S03E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2ze0mKCsKOFid0qAg4vO5D2#.mkv
+#EXTINF:0,Narcos S03E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2z6LDX3dHcTy17wYC8ZElk3#.mkv
+#EXTINF:0,Narcos S03E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ1uyfdhlSM8pXjO9OdEwM2wOyLb2IDckly5QYvijlcOE#.mkv
+#EXTINF:2673,La Viuda Negra S01E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX_CBt8nPD8VuRlCp4dnjtHA#.mp4
+#EXTINF:0,La Viuda Negra S01E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX-xebTBmr01Y3L5pz6-Ia_8#.mp4
+#EXTINF:0,La Viuda Negra S01E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX8WTZXLUI5zDjIzNs5B5NdL#.mp4
+#EXTINF:0,La Viuda Negra S01E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX81nFZEn1KsqrqQU-jaxzEj#.mp4
+#EXTINF:0,La Viuda Negra S01E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX8trEm3DxmaLnx6D8TsWheY#.mp4
+#EXTINF:0,La Viuda Negra S01E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX8V6_mpD6uMiSjP0YyXRuzA#.mp4
+#EXTINF:0,La Viuda Negra S01E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX_nnY8O29pO4UgWq_j1ytSg#.mp4
+#EXTINF:0,La Viuda Negra S01E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX-9ye7mpLGe0Yet3K-MF8E8#.mp4
+#EXTINF:0,La Viuda Negra S01E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX8Fw1hGl_w7Pl0BIpple94D#.mp4
+#EXTINF:0,La Viuda Negra S01E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX_VAF2MWX19mzDj1L4n_tzn#.mp4
+#EXTINF:0,La Viuda Negra S01E11
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX9Psab7HAtujqof6kTchmhP#.mp4
+#EXTINF:0,La Viuda Negra S01E12
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX_DiD1FlvsmPH9GQtHp-zS0#.mp4
+#EXTINF:0,La Viuda Negra S01E13
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX9Gh2Oz8Q-Ok9NIk0o_5hMr#.mp4
+#EXTINF:0,La Viuda Negra S01E14
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ5shnWEprVNbIaZFs3fcxX85Z8l5Vb-qoqHxdRDpz0VR#.mp4
+#EXTINF:0,La Viuda Negra S01E15
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMcWUVy6scajGtozK8W2wlI#.mp4
+#EXTINF:0,La Viuda Negra S01E16
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNjaRFUUUaONTewIr54Gz1x#.mp4
+#EXTINF:0,La Viuda Negra S01E17
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOGw7mORD7Pwu3kW6TQ3_Ob#.mp4
+#EXTINF:0,La Viuda Negra S01E18
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMo_Fjcgu3f0SJgl0Br1A7M#.mp4
+#EXTINF:0,La Viuda Negra S01E19
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPsEnKZoNxwnHyn8ZN--MOe#.mp4
+#EXTINF:0,La Viuda Negra S01E20
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPrElkGiWnMbSnrjgnzWbFJ#.mp4
+#EXTINF:0,La Viuda Negra S01E21
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOKOjhZsGHzSl6kQRbONg8D#.mp4
+#EXTINF:0,La Viuda Negra S01E22
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNItmxcTIwMjdEzKtPI49pv#.mp4
+#EXTINF:0,La Viuda Negra S01E23
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMTRnNGGn_B-e6-r0Idndgt#.mp4
+#EXTINF:0,La Viuda Negra S01E24
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNNtw6V7RhEg9Tk_PBc2fw0#.mp4
+#EXTINF:0,La Viuda Negra S01E25
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOHFzsjV6lLrU1Wf_C8N91b#.mp4
+#EXTINF:0,La Viuda Negra S01E26
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNXujQfeYBW6JC5rgK9INZr#.mp4
+#EXTINF:0,La Viuda Negra S01E27
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOi54EAOik7L4-BhPQ4OEKf#.mp4
+#EXTINF:0,La Viuda Negra S01E28
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMBFugHHC0qCfJ4DPEfkloj#.mp4
+#EXTINF:0,La Viuda Negra S01E29
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMq8o0n1JpiSjeN6WIhwRgl#.mp4
+#EXTINF:0,La Viuda Negra S01E30
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOS9iOGIF-q7d-OwsSzbdVF#.mp4
+#EXTINF:0,La Viuda Negra S01E31
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNxa1wdKCxhiOo0QOyJBoC6#.mp4
+#EXTINF:0,La Viuda Negra S01E32
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOB7JEVCIhd6zQqeg1hi13c#.mp4
+#EXTINF:0,La Viuda Negra S01E33
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOj7MMTf1CPuapByJKTdAl_#.mp4
+#EXTINF:0,La Viuda Negra S01E34
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNN9yqoFEUc2SyfmIUMyqkMi#.mp4
+#EXTINF:0,La Viuda Negra S01E35
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMsf2uo9qfuo8NvL4Ys8NDO#.mp4
+#EXTINF:0,La Viuda Negra S01E36
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOtGBxjs8UxFxfG4fqb-yVb#.mp4
+#EXTINF:0,La Viuda Negra S01E37
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMVtQk2CMhRcSmJe1t9U3jv#.mp4
+#EXTINF:0,La Viuda Negra S01E38
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMXcPwkRNNMEzt5WqQStD3c#.mp4
+#EXTINF:0,La Viuda Negra S01E39
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNP8JkijP9dUN_TxNon8sB7f#.mp4
+#EXTINF:0,La Viuda Negra S01E40
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOxnkQoXotL4ZYb38WKIS7g#.mp4
+#EXTINF:0,La Viuda Negra S01E41
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNNkuo3JdiUp1OQWWhdNbzT#.mp4
+#EXTINF:0,La Viuda Negra S01E42
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPrY5zXnOwRPDyzqvCogmKT#.mp4
+#EXTINF:0,La Viuda Negra S01E43
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNowmxw9g1pVwa7c1yCN247#.mp4
+#EXTINF:0,La Viuda Negra S01E44
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNpg5hZaa3dor6Kxo6ms1ML#.mp4
+#EXTINF:0,La Viuda Negra S01E45
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPObtXAqrrXJkmttDskSnnS#.mp4
+#EXTINF:0,La Viuda Negra S01E46
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOPPZLzdVHnePqPL507Mkxt#.mp4
+#EXTINF:0,La Viuda Negra S01E47
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNP4E_sFVDpYTQScIuAc7gKa#.mp4
+#EXTINF:0,La Viuda Negra S01E48
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPS81INpm-HzATnWgegvvvU#.mp4
+#EXTINF:0,La Viuda Negra S01E49
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNVKSUQ1Zuk3L-SyhWdySG0#.mp4
+#EXTINF:0,La Viuda Negra S01E50
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNM9BNcbDE5AL9e8Ca_yZQsY#.mp4
+#EXTINF:0,La Viuda Negra S01E51
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPFnFLCl4WWVV21Wua6ruQP#.mp4
+#EXTINF:0,La Viuda Negra S01E52
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNP8c9-gmBIRZKtITV-lDVf4#.mp4
+#EXTINF:0,La Viuda Negra S01E53
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNM4rEE8vYawAYs9qhHILv1_#.mp4
+#EXTINF:0,La Viuda Negra S01E54
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNA6hSXo1zywuNBfQJx_UGl#.mp4
+#EXTINF:0,La Viuda Negra S01E55
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOpjnogJ0WpOqtJ72srvZY0#.mp4
+#EXTINF:0,La Viuda Negra S01E56
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOJyDPl95bCEYc4QembObgo#.mp4
+#EXTINF:0,La Viuda Negra S01E57
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMVP0kl6C4awRSlo4jJMdqG#.mp4
+#EXTINF:0,La Viuda Negra S01E58
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPf3rpI-q2J0XvQVXxlRxMQ#.mp4
+#EXTINF:0,La Viuda Negra S01E59
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPkeI3rMzvEjMgYDCzsuQp0#.mp4
+#EXTINF:0,La Viuda Negra S01E60
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNbC9jT7s-kcC13gM7CMWAu#.mp4
+#EXTINF:0,La Viuda Negra S01E61
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNM4IBtnW02bD8hJ2CDagsU#.mp4
+#EXTINF:0,La Viuda Negra S01E62
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNN8Ets_Mr6EdGhVVj206wco#.mp4
+#EXTINF:0,La Viuda Negra S01E63
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMBHp0yW-MHnsAW2U82zo94#.mp4
+#EXTINF:0,La Viuda Negra S01E64
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOizpukjWgTgZSoawPnGUS0#.mp4
+#EXTINF:0,La Viuda Negra S01E65
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNN2ID22Vtzc90sSbFtcR0pl#.mp4
+#EXTINF:0,La Viuda Negra S01E66
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPdsMNHyi0UZN5d9uMAfnHU#.mp4
+#EXTINF:0,La Viuda Negra S01E67
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMh3YzPATNIlo8NNNU7qXaW#.mp4
+#EXTINF:0,La Viuda Negra S01E68
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNM9VahScdRb6NsHCwwD8FiF#.mp4
+#EXTINF:0,La Viuda Negra S01E69
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNqAyeZSkLaHyBS1VCjFauv#.mp4
+#EXTINF:0,La Viuda Negra S01E70
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPRu1TCoT3plV7SZc-7_aKP#.mp4
+#EXTINF:0,La Viuda Negra S01E71
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNM_yiVOPZ48bts9fiFY69tb#.mp4
+#EXTINF:0,La Viuda Negra S01E72
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNkGD77dm8AE4AMz3vbB4yZ#.mp4
+#EXTINF:0,La Viuda Negra S01E73
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNO855TmFNv46LlCiv0Mo1tq#.mp4
+#EXTINF:0,La Viuda Negra S01E74
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNaaTiErnrGcGQw3-jw6eY5#.mp4
+#EXTINF:0,La Viuda Negra S01E75
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMF5MWd5IxF3uvT1M9QWcGS#.mp4
+#EXTINF:0,La Viuda Negra S01E76
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNN2EctYJCnQHQ84qqNx9V-U#.mp4
+#EXTINF:0,La Viuda Negra S01E77
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPirfShBvYrZDlzWFZMghko#.mp4
+#EXTINF:0,La Viuda Negra S01E78
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNIJck0tlZbM9xKGGE2UKFw#.mp4
+#EXTINF:0,La Viuda Negra S01E79
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNqEpfuZyzdZ-gV-1usnJH7#.mp4
+#EXTINF:0,La Viuda Negra S01E80
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNN929IDsfLqYgIx51I9MWJG#.mp4
+#EXTINF:0,La Viuda Negra S01E81
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNmpJ-_7YVoEkukSd71pf1I#.mp4
+#EXTINF:0,La Viuda Negra S01E82
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNP00b2jAumK9mGspGq5jgXa#.mp4
+#EXTINF:0,La Viuda Negra S01E83
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOsz1XPDPP3_JYsELq9gMF0#.mp4
+#EXTINF:0,La Viuda Negra S01E84
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPaCq4A8Jp2ovm7EeM6nXeV#.mp4
+#EXTINF:0,La Viuda Negra S01E85
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNM5pu_fgRZNnXdv9joq9CyP#.mp4
+#EXTINF:0,La Viuda Negra S01E86
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPllMM80KkCMsMOZJSUUt78#.mp4
+#EXTINF:0,La Viuda Negra S02E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPCgnjrOif5UwvZ6CrU5b-9#.mp4
+#EXTINF:0,La Viuda Negra S02E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMhGksXa8H-x7EZNQTjhq2L#.mp4
+#EXTINF:0,La Viuda Negra S02E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOHH-nrQff8-b9RRB80gwj1#.mp4
+#EXTINF:0,La Viuda Negra S02E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfMPYJRMgByjdr34OYzm1LU#.mp4
+#EXTINF:0,La Viuda Negra S02E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvetbZpWgrCZhcnlERLOcPWA#.mp4
+#EXTINF:0,La Viuda Negra S02E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfjDQGyXJsLjIJbDm4ux-mc#.mp4
+#EXTINF:0,La Viuda Negra S02E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdTZMPTx5xFyyo1ISpQFKt7#.mp4
+#EXTINF:0,La Viuda Negra S02E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvcbeFTnVXCEjBs4Vs9jB4pC#.mp4
+#EXTINF:0,La Viuda Negra S02E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvekTCLj8IKyC4fLPdFePydr#.mp4
+#EXTINF:0,La Viuda Negra S02E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMMkb40rVFeNs6-yHxp3BGM#.mp4
+#EXTINF:0,La Viuda Negra S02E11
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMFUB6F6H76BRA2Iup6xNC4#.mp4
+#EXTINF:0,La Viuda Negra S02E12
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPvzfvBovM9duURcQWMfoyA#.mp4
+#EXTINF:0,La Viuda Negra S02E13
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOkLpr8PtVeKZ3eWLwRUBXx#.mp4
+#EXTINF:0,La Viuda Negra S02E14
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMkCxqjmzi4YLefcrqUyNNd#.mp4
+#EXTINF:0,La Viuda Negra S02E15
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNUBHJ57yyjmcmYA7kcV1Je#.mp4
+#EXTINF:0,La Viuda Negra S02E16
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMS_60XFrjwD8bJJ9gCgJN_#.mp4
+#EXTINF:0,La Viuda Negra S02E17
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMqEie6MhuOGNCOwzTBFMfV#.mp4
+#EXTINF:0,La Viuda Negra S02E18
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNzfYwTcgx2QQAy8HmRXhC1#.mp4
+#EXTINF:0,La Viuda Negra S02E19
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOMdF3oCbHrzP1Dmt84706x#.mp4
+#EXTINF:0,La Viuda Negra S02E20
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNz3x79rK77q1zopKvNmUxo#.mp4
+#EXTINF:0,La Viuda Negra S02E21
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOYnSOqJcH69HW123ev2iLC#.mp4
+#EXTINF:0,La Viuda Negra S02E22
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNiMjfKHuqMwQW7yjSlNEFo#.mp4
+#EXTINF:0,La Viuda Negra S02E23
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOApkmY-_tEx3Cf2-xdVHGH#.mp4
+#EXTINF:0,La Viuda Negra S02E24
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNOyqZhk_a0wzfYkBtWy-29T#.mp4
+#EXTINF:0,La Viuda Negra S02E25
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPsE9TPmrzfMBCvgncSt_SL#.mp4
+#EXTINF:0,La Viuda Negra S02E26
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNPE-McGw-fLNLLeu291ELQK#.mp4
+#EXTINF:0,La Viuda Negra S02E27
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMXps_oaLR5z3f6DjWPOUgM#.mp4
+#EXTINF:0,La Viuda Negra S02E28
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMrBdZ5LtN8xS2N3e7Tyokr#.mp4
+#EXTINF:0,La Viuda Negra S02E29
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNrAUfjNMEVrT1vcAvo9LuH#.mp4
+#EXTINF:0,La Viuda Negra S02E30
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNNWFBFk5GShybkSQxdH2U8#.mp4
+#EXTINF:0,La Viuda Negra S02E31
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMQ2E2DrdZ24HvfulSI2EoS#.mp4
+#EXTINF:0,La Viuda Negra S02E32
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNNPf1DDsa-hCfnZnUynWCa9#.mp4
+#EXTINF:0,La Viuda Negra S02E33
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMVol71mhNp9TWWU97Oz1VJ#.mp4
+#EXTINF:0,La Viuda Negra S02E34
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ88gJBJRj7_b2nlsUm0eUNMmWOZtJ-fuOxRniTtFARfh#.mp4
+#EXTINF:0,La Viuda Negra S02E35
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfANpIXCrYWCdn5apy0fUaw#.mp4
+#EXTINF:0,La Viuda Negra S02E36
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdfJD9GfaVyVD3hcDqUPLuj#.mp4
+#EXTINF:0,La Viuda Negra S02E37
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdILgjJbp-yYfTENP6-nodc#.mp4
+#EXTINF:0,La Viuda Negra S02E38
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvcSqMbHnil6xYIOx8vSzTD2#.mp4
+#EXTINF:0,La Viuda Negra S02E39
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdinkhzoVj3CxKnaXcVjMDo#.mp4
+#EXTINF:0,La Viuda Negra S02E40
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdKN4VJ9bkcuqE3QlVoAg6-#.mp4
+#EXTINF:0,La Viuda Negra S02E41
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvepRrmFALIvs6bCJxRZQq_L#.mp4
+#EXTINF:0,La Viuda Negra S02E42
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_Bcpvfbi0e4yqbo31VFGFRDm4M5#.mp4
+#EXTINF:0,La Viuda Negra S02E43
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfUQW9h6RDsGsFSJcdj9bdy#.mp4
+#EXTINF:0,La Viuda Negra S02E44
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdLRr30rtaEJSz5dEOwWiq1#.mp4
+#EXTINF:0,La Viuda Negra S02E45
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdTJNA1J_j4R82JIpBb7LTJ#.mp4
+#EXTINF:0,La Viuda Negra S02E46
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpveBfip9udiKJyj31RxPUxg0#.mp4
+#EXTINF:0,La Viuda Negra S02E47
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfDo5kgXh_IKxHzLOOjyj1n#.mp4
+#EXTINF:0,La Viuda Negra S02E48
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_Bcpvcnqq-0hKSg8iAGwlK2hSuY#.mp4
+#EXTINF:0,La Viuda Negra S02E49
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_Bcpvf48qAPRU4Y7oTyeaCaIYgo#.mp4
+#EXTINF:0,La Viuda Negra S02E50
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvcWPxgT_vsYqxZebJ5VqBBz#.mp4
+#EXTINF:0,La Viuda Negra S02E51
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdK0WphJnVo3WcB5TCxfuGX#.mp4
+#EXTINF:0,La Viuda Negra S02E52
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfiXpDR3g4QRphQsGo3gp-e#.mp4
+#EXTINF:0,La Viuda Negra S02E53
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfANtAO8RGRAENOFm2y_QXB#.mp4
+#EXTINF:0,La Viuda Negra S02E54
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_Bcpvd2etLe6QfuH9tVym5xO0lm#.mp4
+#EXTINF:0,La Viuda Negra S02E55
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpveC41Hp2ltPloh2CZh_DkpE#.mp4
+#EXTINF:0,La Viuda Negra S02E56
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_Bcpvf1budb_RnEKAPk2BojlidI#.mp4
+#EXTINF:0,La Viuda Negra S02E57
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpveGAQxCKAYbEH9pgp6M5IbD#.mp4
+#EXTINF:0,Stargirl S01E01
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdWqNTOwWtP6u1R9YMPTRLw#.mkv
+#EXTINF:0,Stargirl S01E02
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwW1zElgO4D23m-uiJJICpGS#.mkv
+#EXTINF:0,Stargirl S01E03
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwUxI5JKm-cKAbT3_WxlOXE5#.mkv
+#EXTINF:0,Stargirl S01E04
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwXGnrN3MHzODAJYPuK314YE#.mkv
+#EXTINF:0,Stargirl S01E05
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwUu62Jc_ujBatM0eTdlJUPO#.mkv
+#EXTINF:0,Stargirl S01E06
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwWI46qH9VQa_qQAkphuB7pI#.mkv
+#EXTINF:0,Stargirl S01E07
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwUTnK3jFK8Twnnfiqpn4-tB#.mkv
+#EXTINF:0,Stargirl S01E08
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwVSbcpcYeVi9yJDlW8Slwcr#.mkv
+#EXTINF:0,Stargirl S01E09
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQ7HPbtAR2n_EuqUls37GlwVHGcR7w7TCWxtNpKUv92GD#.mkv
+#EXTINF:0,Stargirl S01E10
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpveqWwoVY6j8TImJ3cP9gtAr#.mkv
+#EXTINF:0,Stargirl S01E11
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvdYBSAMGQmSop_2ZRkGsVQJ#.mkv
+#EXTINF:0,Stargirl S01E12
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvcLdNCeXRnw8nwG88CpX7Ed#.mkv
+#EXTINF:0,Stargirl S01E13
+#EXTVLCOPT:network-caching=1000
+http://digitaltvweb.xyz:8080/play/WMMMLIN4g4tYuF6IiM7kQx1lafYjPvSwseBWf_BcpvfmpNYMNffRdSsMTYmXNKfB#.mkv
