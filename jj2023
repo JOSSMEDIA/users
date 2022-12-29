@@ -1,0 +1,507 @@
+#EXTM3U
+#EXTINF:0, 100 ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, 101 A MAS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0, 102 AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:30, 103 MULTIMEDIOS SABINAS 
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:0, 104 MULTIMEDIOS CDMX
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0, 105 TVP 
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, 106 TVP CULIACAN
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0, 107 TVP LOS MOCHIS
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:0, 108 TVP OBREGON
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:0, 109 CANAL DE LAS ESTRELLAS 
+http://190.131.247.82:8000/play/a0ih
+
+#EXTINF:0, 110 CANAL 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:0, 111 TELEMUNDO
+http://190.187.247.206:8000/play/a01f/index.m3u8
+#EXTINF:0, 112 CANAL 28 NUEVO LEON 
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:0, 113 SPECTRUM CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+#EXTINF:0, 114 MILENIO 
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0, 115 TV MAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:0, 116 CANAL 66 
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w298883080_b878000_sleng.m3u8?WebM3UCL
+#EXTINF:0, 117 AMX 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0, 118 DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0, 119 RTS
+http://bg-tv.xyz/w/getp.php?id=930354&f=.m3u8
+#EXTINF:0,120 Pasiones HD
+http://190.115.15.177:58003/play/a00p/index.m3u8
+
+
+
+#EXTINF:0,========== KIDS ================
+#EXTINF:0, 200 CAILLOU
+https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, 201 SUPERTOONS TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, 202 TOONCAST
+http://bg-tv.xyz/w/getp.php?id=930377&f=.m3u8
+#EXTINF:-1, 203 CARTOONITO
+http://bg-tv.xyz/w/getp.php?id=1029570&f=.m3u8
+#EXTINF:0, 204 ZOOMOO
+http://bg-tv.xyz/w/getp.php?id=930334&f=.m3u8
+#EXTINF:-1, 205 DISNEY
+http://190.115.15.177:58003/play/a01r/index.m3u8
+#EXTINF:0, 206 DISNEY 
+http://bg-tv.xyz/w/getp.php?id=930359&f=.m3u8
+#EXTINF:-1, 207 DISNEY JR
+http://190.187.247.206:8000/play/a00v/index.m3u8
+#EXTINF:0, 208 DISNEY JR
+http://bg-tv.xyz/w/getp.php?id=930271&f=.m3u8
+#EXTINF:-1, 209 NICK JR
+http://190.187.247.206:8000/play/a01z/index.m3u8
+#EXTINF:0, 210 NICK JR
+http://bg-tv.xyz/w/getp.php?id=930374&f=.m3u8
+#EXTINF:-1, 211 PLANETA JR
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, 212 CANAL PLANETA KIDS
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1289472866.m3u8?WebM3UCL
+#EXTINF:-1, 213 CARTOON NETWORÑ
+http://168.194.171.33:8000/play/a00c/index.m3u8
+#EXTINF:0, 214 CARTOON NETWORK
+http://bg-tv.xyz/w/getp.php?id=930322&f=.m3u8
+#EXTINF:-1, 215 DISNEY CHANNEL
+http://190.187.247.206:8000/play/a011/index.m3u8
+#EXTINF:-1, 216 NICKELODEON
+http://190.187.247.206:8000/play/a007/index.m3u8
+#EXTINF:0, 217 NICKELODEON
+http://bg-tv.xyz/w/getp.php?id=930324&f=.m3u8
+#EXTINF:0, 218 DISCOVERY KIDS
+http://bg-tv.xyz/w/getp.php?id=930358&f=.m3u8
+#EXTINF:0, 219 TEENICK
+http://bg-tv.xyz/w/getp.php?id=930208&f=.m3u8
+#EXTINF:0, 220 TELESISTEMA 
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0, MONI TV 
+#EXTVLCOPT:network-caching=1000
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1039658345.m3u8?WebM3UCL
+#EXTINF:0, FRECUENCIA MUSICAL
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+
+
+
+#EXTINF:0,========== SPORTS ===============
+#EXTINF:0, 300 CLARO SPORTS
+http://bg-tv.xyz/w/getp.php?id=771505&f=.m3u8
+
+#EXTINF:0, 301 FOX SPORTS
+http://bg-tv.xyz/w/getp.php?id=762787&f=.m3u8
+#EXTINF:0, 302 FOX SPORTS 2
+http://bg-tv.xyz/w/getp.php?id=762801&f=.m3u8
+#EXTINF:0, 303 FOX SPORTS 3
+http://bg-tv.xyz/w/getp.php?id=762802&f=.m3u8
+#EXTINF:0, 304 FOX SPORTS PREMIUM
+http://bg-tv.xyz/w/getp.php?id=1028928&f=.m3u8
+#EXTINF:0, 305 ESPN 
+http://bg-tv.xyz/w/getp.php?id=930361&f=.m3u8
+#EXTINF:0, 306 ESPN 2
+http://bg-tv.xyz/w/getp.php?id=930380&f=.m3u8
+#EXTINF:0, 307 ESPN 3
+http://bg-tv.xyz/w/getp.php?id=930326&f=.m3u8
+#EXTINF:0, 308 ESPN 4
+http://bg-tv.xyz/w/getp.php?id=930325&f=.m3u8
+#EXTINF:0, 309 ESPN EXTRA
+http://bg-tv.xyz/w/getp.php?id=930379&f=.m3u8
+#EXTINF:0, 310 BEIN SPORT EXTRA
+http://131.196.194.2:8000/play/a0h9/index.m3u8
+#EXTINF:0, 311 EL CANAL DEL FUTBOL
+http://bg-tv.xyz/w/getp.php?id=930327&f=.m3u8
+#EXTINF:0, 312 ESPORTS MAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:0, 313 HIPODROMO 
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:0,===== CINE MX Y SERIES ========
+
+
+#EXTINF:0, 400 CANAL CLARO
+http://131.196.194.2:8000/play/a0bs/index.m3u8
+#EXTINF:0, 401 DE PELICULA
+http://190.131.247.82:8000/play/a0ga
+#EXTINF:0, 402 MX NUESTRO CINE
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:0, 403 MY TIME SERIES MEXICO
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0, 404 MY TIME SERIES ESPAÑA
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0, 405 HISTORY
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:0, 406 HISTORY
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:0, 407 HISTORY 2
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:0, 408 HISTORY 2
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:0, 409 EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0, 410 NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:0, 411 DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://190.61.102.67:31589/play/a03x/index.m3u8
+
+#EXTINF:0, 412 TV DAJA
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:0, 413 WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 414 PYMES TV
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:0, 415 SAN ISIDRO
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:29, 416 FRECUENCIA 21
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:0, 417 OPINION SUR TV
+#EXTVLCOPT:network-caching=1000
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:29, 418 ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0, 419 RAKUTEN ACCION
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, 420 RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, 421 RAKUTEN SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, 422 RAKUTEN DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:0,========== CABLEVISION ==========
+
+#EXTINF:0, 500 CINEMAX
+http://190.115.15.177:58003/play/a03o/index.m3u8
+#EXTINF:0, 501 CINEMAX
+http://bg-tv.xyz/w/getp.php?id=930367&f=.m3u8
+#EXTINF:0, 502 CINECANAL
+http://bg-tv.xyz/w/getp.php?id=930365&f=.m3u8
+#EXTINF:0, 503 MULTIPREMIER
+http://bg-tv.xyz/w/getp.php?id=930391&f=.m3u8
+#EXTINF:0, 504 A&E 
+http://190.131.247.82:8000/play/a0jm
+#EXTINF:0, 505 A&E MUNDO 
+http://168.194.171.33:8000/play/a01e/index.m3u8
+#EXTINF:0, 506 AMC
+http://bg-tv.xyz/w/getp.php?id=930369&f=.m3u8
+#EXTINF:0, 507 WARNER 
+http://bg-tv.xyz/w/getp.php?id=930328&f=.m3u8
+#EXTINF:0, 508 UNIVERSAL
+http://190.115.15.177:58003/play/a015/index.m3u8
+#EXTINF:0, 509 SONY
+http://bg-tv.xyz/w/getp.php?id=930336&f=.m3u8
+#EXTINF:0, 510 SONY CHANNEL
+http://190.115.15.177:58003/play/a00j/index.m3u8
+#EXTINF:0, 511 SONY MOVIES
+http://190.115.15.177:58003/play/a036/index.m3u8
+#EXTINF:36, 512 SPACE
+http://bg-tv.xyz/w/getp.php?id=930210&f=.m3u8
+#EXTINF:0, 513 SPACE HD
+http://190.131.247.82:8000/play/a05n
+#EXTINF:0, 514 SYFY
+http://bg-tv.xyz/w/getp.php?id=930520&f=.m3u8
+#EXTINF:0, 515 ADN FX  
+http://190.115.15.177:58003/play/a01q/index.m3u8
+#EXTINF:0, 516 FOX
+http://bg-tv.xyz/w/getp.php?id=930209&f=.m3u8
+#EXTINF:-1, 517 FOX ONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
+#EXTINF:-1, 518 FOX ACTION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
+#EXTINF:-1, 519 FOX CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
+#EXTINF:-1, 520 FOX CLASSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
+#EXTINF:0, 521 TNT 
+http://bg-tv.xyz/w/getp.php?id=930330&f=.m3u8
+#EXTINF:0, 522 TNT SERIES
+http://bg-tv.xyz/w/getp.php?id=930329&f=.m3u8
+#EXTINF:0, 523 STAR CHANNEL
+http://bg-tv.xyz/w/getp.php?id=930363&f=.m3u8
+#EXTINF:0, 524 PARAMOUNT CHANNEL
+http://bg-tv.xyz/w/getp.php?id=930368&f=.m3u8
+#EXTINF:0, 525 HBO 
+http://bg-tv.xyz/w/getp.php?id=780486&f=.m3u8
+#EXTINF:0, 526 HBO 2
+http://bg-tv.xyz/w/getp.php?id=793557&f=.m3u8
+#EXTINF:0, 527 HBO PLUS
+http://bg-tv.xyz/w/getp.php?id=792182&f=.m3u8
+#EXTINF:0, 528 HBO FAMILY 
+http://bg-tv.xyz/w/getp.php?id=792125&f=.m3u8
+#EXTINF:0, 529 HBO SIGNATURE
+http://bg-tv.xyz/w/getp.php?id=793578&f=.m3u8
+#EXTINF:0, 530 HBO MUNDI
+http://bg-tv.xyz/w/getp.php?id=929897&f=.m3u8
+#EXTINF:0, 531 HBO POP
+http://bg-tv.xyz/w/getp.php?id=929850&f=.m3u8
+#EXTINF:0, 532 HBO XTREME
+http://bg-tv.xyz/w/getp.php?id=929918&f=.m3u8
+#EXTINF:0, 533 UNIVERSAL CINEMA ESTE HD
+http://190.61.102.67:8000/play/a05f
+#EXTINF:0, 534 UNIVERSAL COMEDY HD
+http://190.61.102.67:8000/play/a06b
+#EXTINF:0, 535 UNIVERSAL CRIME HD
+http://190.61.102.67:8000/play/a06a
+#EXTINF:0, 536 UNIVERSAL PREMIERE HD
+http://190.61.102.67:8000/play/a067
+#EXTINF:0, 537 UNIVERSAL PREMIERE O HD
+http://190.61.102.67:8000/play/a068
+#EXTINF:0, 538 UNIVERSAL REALITY HD
+http://190.61.102.67:8000/play/a069
+#EXTINF:0, 539 UNIVERSAL
+http://bg-tv.xyz/w/getp.php?id=930384&f=.m3u8
+#EXTINF:0, 540 STUDIO UNIVERSAL
+http://bg-tv.xyz/w/getp.php?id=930382&f=.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0,========== PELICULAS ============
+
+
+#EXTINF:0, 600 CUARTEL SECRETO
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Secret.Headquarters.2022.lati.mp4
+
+#EXTINF:0, 601 TOP GUN 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
+
+#EXTINF:0, 602 DEPREDADOR - LA PRESA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Prey.2022.mkv
+
+#EXTINF:0,  PANTERA NEGRA
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Pantera-Negra.mp4
+
+#EXTINF:0,  TREN BALA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
+
+#EXTINF:0,  LA AMBULANCIA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Ambulance.2022.1080P.Dual-Latino.mitorrent.org.mkv
+
+#EXTINF:0,  PROYECTO ADAMS
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Adam.Project.2022.lati.mp4
+
+#EXTINF:0 type="stream" channelId="-1", SPACE JAM   LA NUEVA ERA
+http://regioplay.xyz/228022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+
+#EXTINF:0 type="stream" channelId="-1", COCO
+http://regioplay.xyz/228022/coco.mkv
+
+#EXTINF:0,  SONIC 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Sonic.the.Hedgehog.2.2022.lati.mp4
+
+#EXTINF:0, MINIONS NACE UN VILLANO
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Minions.NaceUnVillano.SrRegio.Net.mp4
+
+#EXTINF:0, LIGHTYEAR
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/lightyear.2022.SRREGIO.mp4
+
+#EXTINF:0,  UN RESCATE DE HUEVITOS
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
+
+#EXTINF:0, CANTA 2
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+#EXTINF:0,  MOONFALL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Moonfall.2022.lati.mp4
+
+#EXTINF:0 type="stream" channelId="-1", RAPIDOS Y FURIOSOS 9
+http://regioplay.xyz/228022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", FREE GUY
+http://regioplay.xyz/228022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+
+#EXTINF:0,  JURASIC WORLD - DOMINION
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
+
+#EXTINF:0,  MUNDO JURASICO
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Accion/Jurassic-World.mp4
+
+#EXTINF:0 type="stream" channelId="-1", FRESH
+http://regioplay.xyz/228022/Fresh.2022.lati.mp4
+
+#EXTINF:0 type="stream" channelId="-1", EL PADRE STU
+http://regioplay.xyz/228022/Father.Stu.2022.lati.mp4
+
+#EXTINF:0 type="stream" channelId="-1", ETERNALS
+http://regioplay.xyz/228022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", SHANG CHI  La Leyenda de los 10 anillos
+http://regioplay.xyz/228022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", VENOM carnage liberado
+http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+
+#EXTINF:0 type="stream" channelId="-1", CAZAFANTASMAS El Legado
+http://regioplay.xyz/228022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", SPIDER MAN Sin regreso a casa
+http://regioplay.xyz/228022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+
+
+#EXTINF:0, LAS BRUJAS 2
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
+
+#EXTINF:0, LA CIUDAD PERDIDA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Lost.City.2022.lati.mp4
+
+#EXTINF:0, NAVIDAD DE GOLPE
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Falling.for.Christmas.2022.lati.mp4
+
+#EXTINF:0, MENTADA DE PADRE
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Mentada.de.padre.2019.lati.mp4
+
+#EXTINF:0, Y COMO ES EL
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
+
+#EXTINF:0, QUE DESPADRE
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Qu%C3%A9.despadre.2022.lati.mp4
+
+#EXTINF:0, POR FIN SOLO EN CASA
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+
+#EXTINF:0,  OBLIVION
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Oblivion.El.Tiempo.Del.Olvido.Latino.1080p.mp4
+
+
+#EXTINF:0 type="stream" channelId="-1", ASESINO SIN MEMORIA
+http://regioplay.xyz/228022/Memory.SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", ALERTA ROJA
+http://regioplay.xyz/228022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", TELEFONO NEGRO
+http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", POLAROID
+http://regioplay.xyz/228022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+
+#EXTINF:0,  HALO NIGHTFALL
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Ficcion/Halo.Nightfall.Latino.1080p.mp4
+
+#EXTINF:0,  MAZZERUNNER - LA CURA MORTAL
+#EXTVLCOPT:network-caching=1000
+http://192.99.233.158/disco2/Peliculas/Accion/Maze%20Runner%20%20La%20Cura%20Mortal.mkv
+
+#EXTINF:0,  EL HOMBRE DE TORONTO
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/El.Hombre.de.Toronto.mkv
+
+#EXTINF:7426,PROMETHEUS 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:0,CLOVERFIELD PARADOX 
+#EXTVLCOPT:network-caching=1000
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:0,TERMINUS 
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:0,DEADPOOL
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:0, PIRATAS  EL TESORO REAL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/The.Pirates.The.Last.Royal.Treasure.2022.lati.mp4
+
+#EXTINF:0, EL PLANETA DE LOS SIMIOS
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/La%20Guerra%20Del%20Planeta%20De%20Los%20Simios%20%5BBluRay%20Rip%5D%5BAC3%202.0%20Espa%C3%B1ol%20Latino%5D%5B2017%5D.avi
+
+#EXTINF:0, CONSPIRACION EXPLOSIVA
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
+
+#EXTINF:0,  VOLVER AL FUTURO
+#EXTVLCOPT:network-caching=1000
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:0 type="stream" channelId="-1", NO RESPIRES 2
+http://regioplay.xyz/228022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", UNA MOMIA EN HALLOWEN
+http://regioplay.xyz/228022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+
+#EXTINF:0 type="stream" channelId="-1", HALLOWEN KILLS
+http://regioplay.xyz/228022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+
+#EXTINF:0 type="stream" channelId="-1", LA CALLE DEL TERROR
+http://regioplay.xyz/228022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+
+#EXTINF:0, SCREAM 5
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Scream5Grita.SRREGIO.NET.mkv
+
+#EXTINF:0, HALLOWEEN EL FINAL
+#EXTVLCOPT:network-caching=1000
+http://51.81.208.167/pelis2022/Halloween.Ends.2022.lati.mp4
+
+#EXTINF:0, IT
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/it.eso.2017.tshq.mp4
+
+#EXTINF:0, ANABELLE  LA CREACION
+#EXTVLCOPT:network-caching=1000
+http://167.114.174.132:9092/movies/Batch240/Annabelle%20Creation%20%5BBluRay%20Screener%5D%5BEspa%C3%B1ol%20Castellano%5D%5B2017%5D.avi
