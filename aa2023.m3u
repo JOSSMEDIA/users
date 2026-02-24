@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:11,  BABY TV
 #EXTVLCOPT:network-caching=1000
 http://38.49.128.38:8000/play/a0b9/index.m3u8
